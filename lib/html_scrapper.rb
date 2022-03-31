@@ -1,0 +1,3 @@
+
+class HtmlScrapper < Scrapper; end 
+

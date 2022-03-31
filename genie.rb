@@ -1,0 +1,10 @@
+require_relative 'lib/genie_behaviour.rb'
+require_relative 'lib/genie.rb'
+require_relative 'lib/request.rb'
+require_relative 'lib/scrapper_behaviour.rb'
+require_relative 'lib/scrapper.rb'
+require_relative 'lib/html_scrapper.rb'
+
+require_relative 'lib/parser_behaviour.rb'
+require_relative 'lib/parser.rb'
+require_relative 'lib/html_parser.rb'
