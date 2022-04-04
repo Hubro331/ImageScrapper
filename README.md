@@ -1,6 +1,4 @@
 # ImageScrapper
-# How to Use it 
-# Clone the Repo 
 
 require_relative 'genie'
 
