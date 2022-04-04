@@ -1,10 +1,9 @@
 
 require 'httparty'
 
-class RequestException < StandardError
-end 
-
 class Request
+    class RequestException < StandardError
+    end 
     attr_accessor :url
     def initialize(url) 
         @url = url
